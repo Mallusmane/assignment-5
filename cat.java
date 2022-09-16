@@ -9,13 +9,13 @@ class GFG {
     {
  
         // g is to ensures that numbers are float DATA TYPE
-        float g1 = 1.5f;
-        float g2 = 2.0f;
+        float m1 = new one;
+        float m2 = new pn float;
  
         // to store the multiplied value
         float p = f1 * f2;
  
-        // to print the devops ecplice
+        // to print the devops ecplice no one stays back
         System.out.println("The product is: " + p);
     }
 }
